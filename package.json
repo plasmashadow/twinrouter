@@ -1,0 +1,27 @@
+{
+  "name": "twinrouter",
+  "version": "0.0.0",
+  "description": "ws and ajax routes",
+  "main": "index.js",
+  "scripts": {
+    "test": "expresso test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/plasmashadow/twinrouter"
+  },
+  "dependencies": {
+    "ws": "latest",
+    "express": "latest",
+    "express-ws": "latest",
+    "ajaxy-websockets": "latest"
+  },
+  "keywords": [
+    "router"
+  ],
+  "author": "plasmashadow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/plasmashadow/twinrouter/issues"
+  }
+}
