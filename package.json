@@ -11,10 +11,11 @@
     "url": "http://github.com/plasmashadow/twinrouter"
   },
   "dependencies": {
-    "ws": "latest",
     "express": "latest",
-    "express-ws": "latest",
-    "ajaxy-websockets": "latest"
+    "ajaxy-websockets": "latest",
+    "socket.io": "latest",
+    "socket.io-bundle": "latest",
+    "socket.io-passport": "latest"
   },
   "keywords": [
     "router"
